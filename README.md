@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RG-Kronos
-- 👀 I’m interested in ... Web development, system design
-- 🌱 I’m currently learning ... Java, HTML, CSS, Javascript
+- 👀 I’m interested in ... GUI Desktop Applications, Web Development
+- 🌱 I’m currently learning ... Java, Java Swing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
