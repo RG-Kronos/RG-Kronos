@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @RG-Kronos
-- 👀 I’m interested in development of GUI Desktop Applications, Quantum and Molecular Dynamic Simulations in Materials Sciences
-- 👀 I’m learning ML and AI concepts using Python and also using Java
-- 🌱 I’m currently learning Java, Java Swing, Python, Quantum Espresso (DFT), FERAM (MD)
+- 👋 Hi, I’m @RG-Kronos, or you can call me Rohan (Gupta)
+- A Materials Science Engineer with an immense passion to develop models and simulations of engineering systems
+- An enthusiast in core engineering and coding, eager to work at the intersection of Technology and Computations 
+- Currently working on :
+-   1. Electrochemical modelling and simulation of 3DEA battery (diffusion, potential and interface kinetics)
+    2. Hysteresis modelling of Dieletcrics, particularly Ferroelectrics
+    3. GUI for visualisation softwares
+- First Principles Development, Atomistic and Molecular modelling, Quantum and Molecular Dynamic Simulations, Applied Mathematics
 
 <!---
 RG-Kronos/RG-Kronos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
